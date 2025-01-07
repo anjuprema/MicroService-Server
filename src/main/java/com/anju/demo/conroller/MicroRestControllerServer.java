@@ -23,7 +23,7 @@ import com.anju.demo.service.EmployeeService;
  * */
 @RestController
 @RequestMapping("")
-public class MicroRestController1 {
+public class MicroRestControllerServer {
 	
 	@Autowired
 	private EmployeeRepositorySD empRepo;

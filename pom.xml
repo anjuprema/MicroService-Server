@@ -11,7 +11,7 @@
 	<groupId>com.anju</groupId>
 	<artifactId>SpringBootMicroservice-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootMicroservice-1</name>
+	<name>SpringBootMicroservice-Server</name>
 	<description>Demo project for Spring Boot Microservice</description>
 	<url/>
 	<licenses>
